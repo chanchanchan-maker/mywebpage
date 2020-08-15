@@ -1,0 +1,39 @@
+body {
+  background-color: #d3fcd5;
+  color: #44344f;
+}
+
+img {
+  width: 100px;
+}
+
+p {
+  font-size: 30px;
+}
+
+.line1 {
+  color: #564d80;
+  font-size: 45px;
+  font-weight: bold;
+
+  
+}
+
+.letter1 {
+  color: blue;
+}
+
+.letter2 {
+  color: green;
+}
+
+#theLetter {
+  font-size: 60px;
+  color: purple;
+}
+
+.div1 {
+  border: 10px double #564d80;
+  padding: 20px;
+  margin: 40px;
+}
